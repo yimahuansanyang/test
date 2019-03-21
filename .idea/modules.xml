@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestDemo.iml" filepath="$PROJECT_DIR$/TestDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activitiesanimation/activitiesanimation.iml" filepath="$PROJECT_DIR$/activitiesanimation/activitiesanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ahrsview/ahrsview.iml" filepath="$PROJECT_DIR$/ahrsview/ahrsview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animatedcircleloadingview/animatedcircleloadingview.iml" filepath="$PROJECT_DIR$/animatedcircleloadingview/animatedcircleloadingview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadlinkdemo/broadlinkdemo.iml" filepath="$PROJECT_DIR$/broadlinkdemo/broadlinkdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brokenview/brokenview.iml" filepath="$PROJECT_DIR$/brokenview/brokenview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circlepointbadge/circlepointbadge.iml" filepath="$PROJECT_DIR$/circlepointbadge/circlepointbadge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coloringloading/coloringloading.iml" filepath="$PROJECT_DIR$/coloringloading/coloringloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawableview/drawableview.iml" filepath="$PROJECT_DIR$/drawableview/drawableview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawtextview/drawtextview.iml" filepath="$PROJECT_DIR$/drawtextview/drawtextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elasticdownloadview/elasticdownloadview.iml" filepath="$PROJECT_DIR$/elasticdownloadview/elasticdownloadview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/explosionfield/explosionfield.iml" filepath="$PROJECT_DIR$/explosionfield/explosionfield.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expresslist/expresslist.iml" filepath="$PROJECT_DIR$/expresslist/expresslist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filtermenu/filtermenu.iml" filepath="$PROJECT_DIR$/filtermenu/filtermenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gifloadingview/gifloadingview.iml" filepath="$PROJECT_DIR$/gifloadingview/gifloadingview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridpasswordview/gridpasswordview.iml" filepath="$PROJECT_DIR$/gridpasswordview/gridpasswordview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/horseracelamp/horseracelamp.iml" filepath="$PROJECT_DIR$/horseracelamp/horseracelamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interceptinfo/interceptinfo.iml" filepath="$PROJECT_DIR$/interceptinfo/interceptinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpspringmenu/jpspringmenu.iml" filepath="$PROJECT_DIR$/jpspringmenu/jpspringmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycardview/mycardview.iml" filepath="$PROJECT_DIR$/mycardview/mycardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycommentcardview/mycommentcardview.iml" filepath="$PROJECT_DIR$/mycommentcardview/mycommentcardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mycycleview/mycycleview.iml" filepath="$PROJECT_DIR$/mycycleview/mycycleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mypolygonview/mypolygonview.iml" filepath="$PROJECT_DIR$/mypolygonview/mypolygonview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/panoramaimageview/panoramaimageview.iml" filepath="$PROJECT_DIR$/panoramaimageview/panoramaimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/percentview/percentview.iml" filepath="$PROJECT_DIR$/percentview/percentview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistentsearch/persistentsearch.iml" filepath="$PROJECT_DIR$/persistentsearch/persistentsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickerview/pickerview.iml" filepath="$PROJECT_DIR$/pickerview/pickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poupwindowdemo/poupwindowdemo.iml" filepath="$PROJECT_DIR$/poupwindowdemo/poupwindowdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewdeno/recyclerviewdeno.iml" filepath="$PROJECT_DIR$/recyclerviewdeno/recyclerviewdeno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/requestdemo/requestdemo.iml" filepath="$PROJECT_DIR$/requestdemo/requestdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scratchcards/scratchcards.iml" filepath="$PROJECT_DIR$/scratchcards/scratchcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shapeimage/shapeimage.iml" filepath="$PROJECT_DIR$/shapeimage/shapeimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shimmerlayout/shimmerlayout.iml" filepath="$PROJECT_DIR$/shimmerlayout/shimmerlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplecropview/simplecropview.iml" filepath="$PROJECT_DIR$/simplecropview/simplecropview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snowfall/snowfall.iml" filepath="$PROJECT_DIR$/snowfall/snowfall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortdemo/sortdemo.iml" filepath="$PROJECT_DIR$/sortdemo/sortdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipecaptcha/swipecaptcha.iml" filepath="$PROJECT_DIR$/swipecaptcha/swipecaptcha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadpool/threadpool.iml" filepath="$PROJECT_DIR$/threadpool/threadpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toastdemo/toastdemo.iml" filepath="$PROJECT_DIR$/toastdemo/toastdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/verificationcodeview/verificationcodeview.iml" filepath="$PROJECT_DIR$/verificationcodeview/verificationcodeview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vertextview/vertextview.iml" filepath="$PROJECT_DIR$/vertextview/vertextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewdemo/viewdemo.iml" filepath="$PROJECT_DIR$/viewdemo/viewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewdemo2/viewdemo2.iml" filepath="$PROJECT_DIR$/viewdemo2/viewdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewflipper/viewflipper.iml" filepath="$PROJECT_DIR$/viewflipper/viewflipper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/watermaskview/watermaskview.iml" filepath="$PROJECT_DIR$/watermaskview/watermaskview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waveprogressview/waveprogressview.iml" filepath="$PROJECT_DIR$/waveprogressview/waveprogressview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/waveview/waveview.iml" filepath="$PROJECT_DIR$/waveview/waveview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whorlview/whorlview.iml" filepath="$PROJECT_DIR$/whorlview/whorlview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifidemo/wifidemo.iml" filepath="$PROJECT_DIR$/wifidemo/wifidemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifitestdemo/wifitestdemo.iml" filepath="$PROJECT_DIR$/wifitestdemo/wifitestdemo.iml" />
+    </modules>
+  </component>
+</project>

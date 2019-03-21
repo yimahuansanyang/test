@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <!-- 内容或者标题之类的区域，会被覆盖的区域-->
+
+            </RelativeLayout>
+
+            <WebView
+                android:id="@+id/webView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </WebView>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:visibility="gone"
+            android:id="@+id/rl_videoplay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#000000">
+            <!--全屏播放的布局区域，可自定义布局等 -->
+
+
+        </RelativeLayout>
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="com.example.horseracelamp.MainActivity">
+
+    <com.example.horseracelamp.MarqueeTextView
+        android:id="@+id/tv_page"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:autoLink="all"
+        android:text="01010110101010101101100111010110111011010101001110100" />
+
+</LinearLayout>

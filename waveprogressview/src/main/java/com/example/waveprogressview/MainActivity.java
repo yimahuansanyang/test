@@ -1,0 +1,17 @@
+package com.example.waveprogressview;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class MainActivity extends AppCompatActivity {
+
+    private WaveProgressView wavep;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+        wavep = (WaveProgressView) findViewById(R.id.wavep);
+        wavep.startIncrease();
+    }
+}

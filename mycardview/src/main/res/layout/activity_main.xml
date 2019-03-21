@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <com.example.mycardview.MyCardView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="#5ED6FF"
+        android:orientation="horizontal"
+        android:layout_marginBottom="50dp"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="￥2.3"
+            android:textColor="#ffffff"
+            android:textSize="30dp" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="#888888" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="分享红包"
+                android:textColor="#90000000"
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:text="· 满18元可用"
+                android:textColor="#80000000"
+                android:textSize="12dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:text="· 限尾号3235手机号可用"
+                android:textColor="#80000000"
+                android:textSize="12dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:text="· 2016-08-29 - 2016-08-31"
+                android:textColor="#80000000"
+                android:textSize="12dp" />
+        </LinearLayout>
+    </com.example.mycardview.MyCardView>
+
+    <com.example.mycardview.MyMoneyView
+        android:layout_width="match_parent"
+        android:layout_height="6dp"
+        android:background="#ff0000" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="#C4C2C7"
+        android:orientation="horizontal"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="￥2.3"
+            android:textColor="#ff0000"
+            android:textSize="30dp" />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:background="#888888" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="分享红包"
+                android:textColor="#90000000"
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:text="· 满18元可用"
+                android:textColor="#80000000"
+                android:textSize="12dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:text="· 限尾号3235手机号可用"
+                android:textColor="#80000000"
+                android:textSize="12dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:text="· 2016-08-29 - 2016-08-31"
+                android:textColor="#80000000"
+                android:textSize="12dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

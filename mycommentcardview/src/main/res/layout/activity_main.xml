@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:padding="20dp">
+
+    <com.example.mycommentcardview.MyCommentCardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#D0C0A3">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/text_c"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="15dp"
+                android:text="Hensen博客有奖竞猜\n活动奖品说明"
+                android:textColor="#7F3912"
+                android:textSize="14sp" />
+        </LinearLayout>
+        <!--中间的主体内容-->
+        <ScrollView
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </ScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="15dp"
+                android:text="返回"
+                android:textColor="#7F3912"
+                android:textSize="22sp" />
+        </LinearLayout>
+    </com.example.mycommentcardview.MyCommentCardView>
+</RelativeLayout>

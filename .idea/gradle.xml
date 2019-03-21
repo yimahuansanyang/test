@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activitiesanimation" />
+            <option value="$PROJECT_DIR$/ahrsview" />
+            <option value="$PROJECT_DIR$/animatedcircleloadingview" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadlinkdemo" />
+            <option value="$PROJECT_DIR$/brokenview" />
+            <option value="$PROJECT_DIR$/circlepointbadge" />
+            <option value="$PROJECT_DIR$/coloringloading" />
+            <option value="$PROJECT_DIR$/drawableview" />
+            <option value="$PROJECT_DIR$/drawtextview" />
+            <option value="$PROJECT_DIR$/elasticdownloadview" />
+            <option value="$PROJECT_DIR$/explosionfield" />
+            <option value="$PROJECT_DIR$/expresslist" />
+            <option value="$PROJECT_DIR$/filtermenu" />
+            <option value="$PROJECT_DIR$/gifloadingview" />
+            <option value="$PROJECT_DIR$/gridpasswordview" />
+            <option value="$PROJECT_DIR$/horseracelamp" />
+            <option value="$PROJECT_DIR$/interceptinfo" />
+            <option value="$PROJECT_DIR$/jpspringmenu" />
+            <option value="$PROJECT_DIR$/mycardview" />
+            <option value="$PROJECT_DIR$/mycommentcardview" />
+            <option value="$PROJECT_DIR$/mycycleview" />
+            <option value="$PROJECT_DIR$/mypolygonview" />
+            <option value="$PROJECT_DIR$/panoramaimageview" />
+            <option value="$PROJECT_DIR$/percentview" />
+            <option value="$PROJECT_DIR$/persistentsearch" />
+            <option value="$PROJECT_DIR$/pickerview" />
+            <option value="$PROJECT_DIR$/poupwindowdemo" />
+            <option value="$PROJECT_DIR$/recyclerviewdeno" />
+            <option value="$PROJECT_DIR$/requestdemo" />
+            <option value="$PROJECT_DIR$/scratchcards" />
+            <option value="$PROJECT_DIR$/shapeimage" />
+            <option value="$PROJECT_DIR$/shimmerlayout" />
+            <option value="$PROJECT_DIR$/simplecropview" />
+            <option value="$PROJECT_DIR$/snowfall" />
+            <option value="$PROJECT_DIR$/sortdemo" />
+            <option value="$PROJECT_DIR$/swipecaptcha" />
+            <option value="$PROJECT_DIR$/threadpool" />
+            <option value="$PROJECT_DIR$/toastdemo" />
+            <option value="$PROJECT_DIR$/verificationcodeview" />
+            <option value="$PROJECT_DIR$/vertextview" />
+            <option value="$PROJECT_DIR$/viewdemo" />
+            <option value="$PROJECT_DIR$/viewdemo2" />
+            <option value="$PROJECT_DIR$/viewflipper" />
+            <option value="$PROJECT_DIR$/watermaskview" />
+            <option value="$PROJECT_DIR$/waveprogressview" />
+            <option value="$PROJECT_DIR$/waveview" />
+            <option value="$PROJECT_DIR$/whorlview" />
+            <option value="$PROJECT_DIR$/wifidemo" />
+            <option value="$PROJECT_DIR$/wifitestdemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

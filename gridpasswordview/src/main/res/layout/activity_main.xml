@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.gridpasswordview.MainActivity">
+
+    <com.jungly.gridpasswordview.GridPasswordView
+        android:id="@+id/pswView"
+        android:layout_width="368dp"
+        android:layout_height="100dp"
+        app:gpvGridColor="#ffffff"
+        app:gpvLineColor="#2196F3"
+        app:gpvLineWidth="1dp"
+        app:gpvPasswordLength="6"
+        app:gpvPasswordTransformation=""
+        app:gpvPasswordType="numberPassword"
+        app:gpvTextColor="#2196F3"
+        app:gpvTextSize="25sp" />
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="显示密码" />
+
+</LinearLayout>

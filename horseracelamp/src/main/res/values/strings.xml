@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">跑马灯</string>
+    <string name="page">第%1$s章第%2$s讲</string>
+</resources>
